@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: who-am-i
+metadat:
+  name: Ertuğrul Şen
+  title: DevOps Arhitect
+  email: ertugrul.sen@teamdefinex.com
+  linkedin: https://www.linkedin.com/in/ertu%C4%9Frul-%C5%9Fen-a77401b9/
+  labels:
+    background: 8 years experience in the IT-industry.
+    project:
+      client: Garanti
+      name: ARK
+      role: Devops Archtiect
+      responsibilities: 
+        - key: Developing and maintaining a Groovy Jenkins pipeline 
+        - key: Developed plugins for Bitbucket Server using Java and JavaScript.
+        - key: Working on improving CI/CD pipeline and introducing DevOps best practices to the GarantiBBVA
+    hobbies:
+      - item: drone pilot
+  spec:
+    subject:
+     - name: DevOps: Orchestrating Success in Software Development 
+       protocol: TCP / UDP
+       ports: any
+    selector:
+      app: Java COmmunity Presentation 
+
