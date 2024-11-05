@@ -23,5 +23,6 @@ metadat:
        protocol: TCP / UDP
        ports: any
     selector:
-      app: Java COmmunity Presentation 
+      app: DevOps Intermediate Training
+
 
