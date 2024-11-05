@@ -19,10 +19,9 @@ metadat:
       - item: drone pilot
   spec:
     subject:
-     - name: DevOps: Orchestrating Success in Software Development 
+     - name: DevOps Intermediate Training
        protocol: TCP / UDP
        ports: any
-    selector:
-      app: DevOps Intermediate Training
+
 
 
